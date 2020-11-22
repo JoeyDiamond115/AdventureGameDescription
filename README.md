@@ -12,4 +12,6 @@ As they play the game, the player has the chance of meeting HH.Holmes and Milton
 
 ### Player Goals
 The player is tasked with making branching decisions that changes thier sequence of events. Their progress is tracked with every screen change. A list of items will appear at the end of the game to show them what they have found along the way.
-There is also a money feature for the player to keep track of, as this can change what scenes take place for them.
+
+### Important Features
+There is in-game currency that the player to keep track of, as this can change what scenes take place for them.
