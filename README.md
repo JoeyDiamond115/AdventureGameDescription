@@ -1,8 +1,8 @@
-# Chicago World's Fair (1893) Adventure Game
+# A Fair Time Adventure Game
 Adventure Game for Intro to Programming
 
 ## Game Overview
-You're a tourist exploring the World's Fair of 1893. As you navigate around, you're given the chance to enter exhibits, discover new foods/inventions of the time, and even meet some important people. But beware, for there's a danger that lurks nearby...
+You're a tourist exploring the Chicago World's Fair of 1893. As you navigate around, you're given the chance to enter exhibits, discover new foods/inventions of the time, and even meet some important people. But beware, for there's a danger that lurks nearby...
 
 ### World
 The player will be be able to traverse the fairgrounds. They can enter certain exhibits, hotels, and rides. There are also items to find which can unlock certian pathways.
